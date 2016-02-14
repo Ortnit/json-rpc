@@ -1,0 +1,12 @@
+{
+    "name": "ortnit/json-rpc",
+    "description": "JSON-RPC Lib",
+    "authors": [
+        {
+            "name": "Tobias Spigner",
+            "email": "ts@spigner.de"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
