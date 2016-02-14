@@ -1,12 +1,19 @@
 {
     "name": "ortnit/json-rpc",
+    "type": "library",
     "description": "JSON-RPC Lib",
+    "homepage": "https://github.com/ortnit/json-rpc",
+    "license": "MIT",
     "authors": [
         {
             "name": "Tobias Spigner",
-            "email": "ts@spigner.de"
+            "email": "ts@spigner.de",
+            "homepage": "http://tobias.spigner.de",
+            "role": "Developer"
         }
     ],
     "minimum-stability": "dev",
-    "require": {}
+    "require": {
+        "php": ">=5.5.0"
+    }
 }
